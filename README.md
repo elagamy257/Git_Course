@@ -11,36 +11,36 @@ and track sales revenue.
 
 ## Key Features:
 
-<li>  *User-Friendly Interface:* <br>
+<li>  User-Friendly Interface:<br>
   An intuitive design for smooth navigation across various sections.</li>
 
-<li> *Novel Management:* <br>
+<li> Novel Management: <br>
   Administrators can add, update, and delete novels from the database.</li>
 
-<li> *Customer Registration:* <br>
+<li> Customer Registration: <br>
   Easy registration process for new customers with quick login capabilities.</li>
 
-<li> *Revenue Tracking:* <br>
+<li> Revenue Tracking: <br>
   Comprehensive reports on revenue and sales for administrators.</li>
 
-<li> *Popular Books Section:* <br>
+<li> Popular Books Section:<br>
   A dedicated display of trending novels from renowned authors.</li>
 
-## *Main Interfaces:*
+## Main Interfaces:
 
-<li> 1. *Home:*<br>
+<li> 1. Home:<br>
    - Displays popular novels recently appreciated by readers.
    - Features highlighted books from favorite authors, encouraging exploration.</li>
 
-<li> 2. *Available Books:*<br>
+<li> 2. Available Books:<br>
    - Lists all books available on the site.
    - Includes a search bar for easy access and allows admins to manage book entries.</li>
 
-<li> 3. *Shopping:*<br>
+<li> 3. Shopping:<br>
    - Users can search for books by ID or title and specify desired quantities.
    - A direct "Pay" button facilitates the checkout process.</li>
 
-<li> 4. *Income:*<br>
+<li> 4. Income:<br>
    - Enables administrators to monitor revenue accurately.
    - Shows customer counts and available books, with a chart for visual financial representation.</li>
 
