@@ -49,9 +49,9 @@ and track sales revenue.
 <div align = center>
 
 Login <br>
-![Customer Login](image\login.jpg "Customer Login")
+![Customer Login](image\login.jpg "Customer Login") <br>
 Sign up <br>
-![Customer Sign up](image\signup.jpg "Customer Sign up") <br>
+![Customer Sign up](image\signup.jpg "Customer Sign up")  <br>
 
 ## Dashboard Window
 
