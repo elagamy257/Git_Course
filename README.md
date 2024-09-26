@@ -28,21 +28,21 @@ and track sales revenue.
 
 ## Main Interfaces:
 
-<li> 1. Home:<br>
-   - Displays popular novels recently appreciated by readers.
-   - Features highlighted books from favorite authors, encouraging exploration.</li>
+<li> Home:<br>
+   - Displays popular novels recently appreciated by readers. <br>
+   - Features highlighted books from favorite authors, encouraging exploration. <br></li>
 
-<li> 2. Available Books:<br>
-   - Lists all books available on the site.
-   - Includes a search bar for easy access and allows admins to manage book entries.</li>
+<li> Available Books:<br>
+   - Lists all books available on the site. <br>
+   - Includes a search bar for easy access and allows admins to manage book entries. <br></li>
 
-<li> 3. Shopping:<br>
-   - Users can search for books by ID or title and specify desired quantities.
-   - A direct "Pay" button facilitates the checkout process.</li>
+<li>  Shopping:<br>
+   - Users can search for books by ID or title and specify desired quantities. <br>
+   - A direct "Pay" button facilitates the checkout process. <br></li>
 
-<li> 4. Income:<br>
-   - Enables administrators to monitor revenue accurately.
-   - Shows customer counts and available books, with a chart for visual financial representation.</li>
+<li> Income:<br>
+   - Enables administrators to monitor revenue accurately. <br>
+   - Shows customer counts and available books, with a chart for visual financial representation. <br></li>
 
 
 ## Screenshots:
