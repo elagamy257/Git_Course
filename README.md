@@ -6,9 +6,9 @@
 
 ## 🙋‍♀️ About Me:
 
-- 🤺 I’m a student at **FCIS Tanta University 💻**  .
+- 🤺 I’m a student at **FCIS Tanta University**  .
 
-- 💻I’m in  **Computer Science  📱** department
+- 💻I’m in  **Computer Science** department
 
 - ☠️ I’m currently learning **Java Spring**.
 
@@ -22,7 +22,7 @@
 
 ## 🚀 Languages and Tools:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+    <img src="https://skillicons.dev/icons?i=cpp,java,python,c,html,css,js" /><br>
     <img src="https://skillicons.dev/icons?i=github,vscode" /><br>
 </div>
 
